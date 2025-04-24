@@ -1,0 +1,5 @@
+goodbye: 0
+greeting: 1
+report_emotion: 2
+smalltalk: 3
+suicide: 4
